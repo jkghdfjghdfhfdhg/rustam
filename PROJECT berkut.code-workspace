@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../PROJECT berkut"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROJECT RUSTAM"
+	}
+}
